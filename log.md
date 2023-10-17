@@ -16,4 +16,4 @@
 
 
 **Link(s) to work**
-[Day 02 - basic program of hello world & larned about variables] - https://github.com/poojamundada0512/30-days-challenge/blob/main/Day01/index.html
+[Day 02 - basic program of hello world & larned about variables] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day02
