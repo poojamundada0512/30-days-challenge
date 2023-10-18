@@ -23,4 +23,4 @@
 **Today's Progress**: learned about stringIndexing & stringMethods with some simple code.
 
 **Link(s) to work**
-[Day 03 - stringIndexing & stringMethods] - 
+[Day 03 - stringIndexing & stringMethods] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day03
