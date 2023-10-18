@@ -14,6 +14,13 @@
 
 **Today's Progress**: run the hello world basic program, learned about var variable, let variable & constant variable with simple code.
 
-
 **Link(s) to work**
 [Day 02 - basic program of hello world & larned about variables] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day02
+
+
+### Day 03: October 18, Wednesday
+
+**Today's Progress**: learned about stringIndexing & stringMethods with some simple code.
+
+**Link(s) to work**
+[Day 03 - stringIndexing & stringMethods] - 
