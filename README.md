@@ -24,3 +24,11 @@
 
 **Link(s) to work**
 [Day 03 - stringIndexing & stringMethods] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day03
+
+
+### Day 04: October 19, Thrusday
+
+**Today's Progress**: learned about typeof Opeartor, String Concatination, Template string also perfomed a bsaic code
+
+**Link(s) to work**
+[Day 04 - typeof Opeartor, String Concatination, Template string] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day04
