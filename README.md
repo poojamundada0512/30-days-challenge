@@ -32,3 +32,12 @@
 
 **Link(s) to work**
 [Day 04 - typeof Opeartor, String Concatination, Template string] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day04
+
+
+
+### Day 05: October 20, Friday
+
+**Today's Progress**: learned all typeof operator like undefines, null, BigInt, Boolean & compariosn also difference between == & ===, != & !== finished all type of operator.
+
+**Link(s) to work**
+[Day 04 - all java script typeof operator] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day05

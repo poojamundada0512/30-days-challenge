@@ -39,4 +39,4 @@
 **Today's Progress**: learned all typeof operator like undefines, null, BigInt, Boolean & compariosn also difference between == & ===, != & !== finished all type of operator.
 
 **Link(s) to work**
-[Day 04 - all JS typeof operator] -
+[Day 04 - all java script typeof operator] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day05
