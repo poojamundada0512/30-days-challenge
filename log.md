@@ -28,7 +28,15 @@
 
 ### Day 04: October 19, Thrusday
 
-**Today's Progress**: learned about typeof Opeartor, String Concatination, Template string also perfomed a bsaic code
+**Today's Progress**: learned about typeof Opeartor (string & Number), String Concatination, Template string also perfomed a bsaic code
 
 **Link(s) to work**
-[Day 04 - typeof Opeartor, String Concatination, Template string] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day04
+[Day 04 - typeof Opeartor (string & Number), String Concatination, Template string] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day04
+
+
+### Day 05: October 20, Friday
+
+**Today's Progress**: learned all typeof operator like undefines, null, BigInt, Boolean & compariosn also difference between == & ===, != & !== finished all type of operator.
+
+**Link(s) to work**
+[Day 04 - all JS typeof operator] -
