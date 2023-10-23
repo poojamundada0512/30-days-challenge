@@ -48,4 +48,13 @@
 **Today's Progress**: learned about if else condition with code then learned about truthy falsy value and learned about ternary operator
 
 **Link(s) to work**
-[Day 06 - if else condition & ternary operator & truthy falsy value] - 
+[Day 06 - if else condition & ternary operator & truthy falsy value] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day06
+
+
+### Day 07: October 22, Sunday
+
+**Today's Progress**: learned about  if elseif, nested if else, switch statement, And & OR operator with programs.
+
+**Link(s) to work**
+[Day 07 - if elseif, nested if else, switch statement, And & OR operator] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day06
+
