@@ -40,3 +40,12 @@
 
 **Link(s) to work**
 [Day 04 - all java script typeof operator] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day05
+
+
+
+### Day 06: October 21, Saturday
+
+**Today's Progress**: learned about if else condition with code then learned about truthy falsy value and learned about ternary operator
+
+**Link(s) to work**
+[Day 06 - if else condition & ternary operator & truthy falsy value] - 
