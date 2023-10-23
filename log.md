@@ -56,5 +56,4 @@
 **Today's Progress**: learned about  if elseif, nested if else, switch statement, And & OR operator with programs.
 
 **Link(s) to work**
-[Day 07 - if elseif, nested if else, switch statement, And & OR operator] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day06
-
+[Day 07 - if elseif, nested if else, switch statement, And & OR operator] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day07
