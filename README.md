@@ -56,3 +56,10 @@
 
 **Link(s) to work**
 [Day 07 - if elseif, nested if else, switch statement, And & OR operator] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day07
+
+### Day 08: October 23, Monday
+
+**Today's Progress**: learned about  while loop & for loop with programs.
+
+**Link(s) to work**
+[Day 08 - while loop & for loop] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day08
