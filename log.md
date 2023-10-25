@@ -72,3 +72,11 @@
 
 **Link(s) to work**
 [Day 09 - break keyword, continue keyword & do-while loop] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day09
+
+
+### Day 10: October 25, Wednesday
+
+**Today's Progress**: Introduction to arrays, How to create a array, check type of array , array Indexing, some methods of array like push & pop also shift & unshift.
+
+**Link(s) to work**
+[Day 10 - about arrays and some methods of arrays] - 
