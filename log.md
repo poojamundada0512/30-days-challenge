@@ -86,4 +86,4 @@
 **Today's Progress**: learned about premitive data types, Reference data types, differnce between premitive & Reference data types, clone array, How to clone array, Concatination of array, for loop in array.
 
 **Link(s) to work**
-[Day 11 - premitive & reference data types, clone array, concatination of array, for loop in array] - 
+[Day 11 - premitive & reference data types, clone array, concatination of array, for loop in array] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day11
