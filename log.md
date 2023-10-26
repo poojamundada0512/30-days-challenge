@@ -80,3 +80,10 @@
 
 **Link(s) to work**
 [Day 10 - about arrays and some methods of arrays] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day10
+
+### Day 11: October 26, Thrusday
+
+**Today's Progress**: learned about premitive data types, Reference data types, differnce between premitive & Reference data types, clone array, How to clone array, Concatination of array, for loop in array.
+
+**Link(s) to work**
+[Day 11 - premitive & reference data types, clone array, concatination of array, for loop in array] - 
