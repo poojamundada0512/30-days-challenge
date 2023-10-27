@@ -94,4 +94,4 @@
 **Today's Progress**: learned about how to use const for creating arrays, while loop in array , for in loop in array, for of loop in array with some code example.
 
 **Link(s) to work**
-[Day 12 - const in array, while loop in array,for in loop in array, for of loop in array] - 
+[Day 12 - const in array, while loop in array,for in loop in array, for of loop in array] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day12
