@@ -94,3 +94,11 @@
 
 **Link(s) to work**
 [Day 12 - const in array, while loop in array,for in loop in array, for of loop in array] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day12
+
+
+### Day 13: October 30, Monday
+
+**Today's Progress**: learned about array distructing, introduction to object, How to create object, how to access the data in object, store array into object, how to add key value pair to objects.
+
+**Link(s) to work**
+[Day 13 - array distructing, objects] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day13
