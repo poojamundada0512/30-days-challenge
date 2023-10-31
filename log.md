@@ -110,4 +110,5 @@
 **Today's Progress**: learned about Difference between Dot & Bracket Notation, Iterate Object, Computed Properties.
 
 **Link(s) to work**
-[Day 14 - Dot & Bracket Notation, Iterate Object, Computed Properties.] - 
+[Day 14 - Dot & Bracket Notation, Iterate Object, Computed Properties.] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day14
+

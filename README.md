@@ -102,3 +102,11 @@
 
 **Link(s) to work**
 [Day 13 - array distructing, objects] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day13
+
+
+### Day 14: October 31, Tuesday
+
+**Today's Progress**: learned about Difference between Dot & Bracket Notation, Iterate Object, Computed Properties.
+
+**Link(s) to work**
+[Day 14 - Dot & Bracket Notation, Iterate Object, Computed Properties.] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day14
