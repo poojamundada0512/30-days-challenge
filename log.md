@@ -118,5 +118,5 @@
 **Today's Progress**: learned about Spread Operator in object, Object Destructuring, Object inside array, Nested Destructuring with some basic examples. 
 
 **Link(s) to work**
-[Day 15 - Spread Operator in object, Object Destructuring, Object inside array, Nested Destructuring ] - 
+[Day 15 - Spread Operator in object, Object Destructuring, Object inside array, Nested Destructuring ] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day15
 

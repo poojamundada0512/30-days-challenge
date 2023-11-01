@@ -110,3 +110,11 @@
 
 **Link(s) to work**
 [Day 14 - Dot & Bracket Notation, Iterate Object, Computed Properties.] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day14
+
+
+### Day 15: November 1, Wednesday
+
+**Today's Progress**: learned about Spread Operator in object, Object Destructuring, Object inside array, Nested Destructuring with some basic examples. 
+
+**Link(s) to work**
+[Day 15 - Spread Operator in object, Object Destructuring, Object inside array, Nested Destructuring ] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day15
