@@ -126,3 +126,11 @@
 
 **Link(s) to work**
 [Day 16 - Function declaration, Function Expression, Arrow function, function inside function, Hoisting intro ] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day16
+
+
+### Day 17: November 4, Saturday
+
+**Today's Progress**: Learned about Lexical Scope, Block scope Vs function scope, Default Parameter, Rest Parameter and Parameter Destructuring with some program examples. 
+
+**Link(s) to work**
+[Day 17 - Lexical Scope, Block scope Vs function scope, Default Parameter, Rest Parameter, Parameter Destructuring ] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day17
