@@ -122,7 +122,7 @@
 
 ### Day 16: November 3, Friday
 
-**Today's Progress**: Started with function, learned about Function declaration, Function Expression, Arrow function, function inside function, and basic introduction for Hoisting. 
+**Today's Progress**: Started with function in JS, learned about Function declaration, Function Expression, Arrow function, function inside function, and basic introduction for Hoisting. 
 
 **Link(s) to work**
 [Day 16 - Function declaration, Function Expression, Arrow function, function inside function, Hoisting intro ] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day16
