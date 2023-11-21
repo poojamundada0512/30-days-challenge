@@ -142,3 +142,12 @@
 
 **Link(s) to work**
 [Day 18 - Callback function, function returning function, array methods] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day18
+
+
+### Day 19: November 21, Tuesday
+
+**Today's Progress**: Learned about foreach method, map method, how to call map method, filter method with some program examples.
+
+**Link(s) to work**
+[Day 19 - foreach method, map method, filter method] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day19
+
