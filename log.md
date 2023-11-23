@@ -161,5 +161,5 @@
 **Today's Progress**: Learned about reduce method, how this method work in JS,then learned about accumulator and current value in reduce method with some exmaples, then learned about Sort method , how this sort method work in JS with examples, learned about find method in JS with some examples.
 
 **Link(s) to work**
-[Day 19 - reduce method, sort method, find method] - 
+[Day 19 - reduce method, sort method, find method] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day20
 
