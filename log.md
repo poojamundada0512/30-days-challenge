@@ -161,5 +161,12 @@
 **Today's Progress**: Learned about reduce method, how this method work in JS,then learned about accumulator and current value in reduce method with some exmaples, then learned about Sort method , how this sort method work in JS with examples, learned about find method in JS with some examples.
 
 **Link(s) to work**
-[Day 19 - reduce method, sort method, find method] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day20
+[Day 20 - reduce method, sort method, find method] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day20
 
+
+### Day 21: November 24, Friday,
+
+**Today's Progress**: Learned about every method in JS, fill method is JS, some method in JS, splice method in JS with some examples.
+
+**Link(s) to work**
+[Day 21 -  every method,fill method, some method,splice method ] - 
