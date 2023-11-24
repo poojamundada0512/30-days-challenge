@@ -169,4 +169,4 @@
 **Today's Progress**: Learned about every method in JS, fill method is JS, some method in JS, splice method in JS with some examples.
 
 **Link(s) to work**
-[Day 21 -  every method,fill method, some method,splice method ] - 
+[Day 21 -  every method,fill method, some method,splice method ] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day21
