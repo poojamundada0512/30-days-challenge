@@ -178,4 +178,4 @@
 **Today's Progress**: Learned about iterables object in detail with examples, about Sets in JS with example, an learned about Maps object in js with examples.
 
 **Link(s) to work**
-[Day 22 -  Iterables object, Sets in JS, Maps Object] - 
+[Day 22 -  Iterables object, Sets in JS, Maps Object] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day22
