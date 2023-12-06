@@ -170,3 +170,12 @@
 
 **Link(s) to work**
 [Day 21 -  every method,fill method, some method,splice method ] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day21
+
+
+
+### Day 22: December 06, Wednesday,
+
+**Today's Progress**: Learned about iterables object in detail with examples, about Sets in JS with example, an learned about Maps object in js with examples.
+
+**Link(s) to work**
+[Day 22 -  Iterables object, Sets in JS, Maps Object] - 
