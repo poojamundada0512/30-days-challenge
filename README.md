@@ -175,3 +175,12 @@
 
 **Link(s) to work**
 [Day 22 -  Iterables object, Sets in JS, Maps Object] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day22
+
+
+
+### Day 23: December 13, Wednesday,
+
+**Today's Progress**: Learned about Optional Chaining, this keyword in JS, Methods in JS, Call method, Apply method, Bind method in JS with various examples.
+
+**Link(s) to work**
+[Day 23 - Optional chaining, this keyword, methods, Call, apply, bind method.] - https://github.com/poojamundada0512/30-days-challenge/tree/main/Day23
